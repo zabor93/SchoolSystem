@@ -2,10 +2,8 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="school" uuid="12f82450-5952-44a1-a865-b607b4d3e43b">
-      <database-info product="SQLite" version="3.20.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.20.1.1" family="SQLITE" exact-version="3.20.1" />
-      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <auth-required>false</auth-required>
-      <introspection-schemas>*:*</introspection-schemas>
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="SQLITE" exact-version="0.0" />
+      <introspection-schemas>*:@</introspection-schemas>
     </data-source>
   </component>
 </project>
