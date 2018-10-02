@@ -51,7 +51,6 @@ public class LoginModel {
             {
                 pr.close();
                 rs.close();
-
             }
         }
     }
